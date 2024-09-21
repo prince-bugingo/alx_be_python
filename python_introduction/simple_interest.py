@@ -5,7 +5,6 @@
 #( R ) is the annual interest rate (as a decimal),
 #( T ) is the time the money is invested for in years.
 
-
 #Define
 principal= 1000
 rate = 0.05
