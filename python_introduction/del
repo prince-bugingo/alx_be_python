@@ -1,3 +1,4 @@
+
 #User Input for Financial Details
 income = input( "Enter your monthly income:" )
 expenses = input( "Enter your monthly expenses:" )
